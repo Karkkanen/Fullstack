@@ -9,5 +9,5 @@ osa1
 osa2
   Lipsum
 ```
-
+XD
 Hakemistoon kannattaa sijoittaa koko tehtäväsarjan react-projekti lukuunottamatta riippuvuuksia sisältävää hakemistoa <i>node\_modules</i>

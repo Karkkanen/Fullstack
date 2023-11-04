@@ -15,7 +15,7 @@ sequenceDiagram
     activate server
     server-->>browser: HTML document
     deactivate server
-    XD    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.css
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.css
     activate server
     server-->>browser: the css file
     deactivate server
